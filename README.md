@@ -1,8 +1,7 @@
-# WhatsApp-Lock-V1 Coded By @ransomxrend3ro
+# WhatsApp-Lock-V1 Coded By @Descodia_king
 
  
-git clone https://github.com/REND3RO/WA-Lock.git
-
+git clone https://github.com/Descodia/https-github.com-Descodia-Descodia.git
 cd WA-Lock
 cd bota2
 cd bota2
@@ -15,5 +14,5 @@ Enter Your Number Without Country Code Like 1234567890
 
 
 If You Face Any Issue
-Contact Me On TG:- @descodia
-              IG:- @Descodia
+Contact Me On Telegram:- @descodia
+           
