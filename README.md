@@ -2,7 +2,7 @@
 
  
 git clone https://github.com/Descodia/https-github.com-Descodia-Descodia.git
-cd WA-Lock
+cd Descodia
 cd bota2
 cd bota2
 node index.js
